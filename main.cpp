@@ -1,3 +1,4 @@
+//Author: Carter Fitzsimons
 #include "SecretDoor/SecretDoor.h"
 #include <iostream>
 
